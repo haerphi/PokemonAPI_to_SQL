@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/haerphi/PokemonAPI_to_SQL#readme",
   "devDependencies": {
-    "@babel/cli": "^7.6.4",
+    "@babel/cli": "^7.7.5",
     "@babel/core": "^7.6.4",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
     "@babel/plugin-proposal-decorators": "^7.6.0",
